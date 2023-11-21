@@ -11,7 +11,7 @@ The Kotlin Recipe Finder App is a demonstration project that showcases efficient
 
 ## Setup and Installation
 To get started with this project:
-1. Clone the repository: 
+1. Clone the repository: https://github.com/ashutosh-makwana/bugfender-recipe-finder-app.git
 
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files to resolve dependencies.
