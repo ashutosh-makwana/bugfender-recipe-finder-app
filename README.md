@@ -28,6 +28,3 @@ To get started with this project:
 
 ## Contributing
 Contributions to enhance this project are welcome. Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is released under the [MIT License](LICENSE).
